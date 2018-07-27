@@ -1,5 +1,5 @@
 
-#Objective: Today, we're discussing data types.
+# Objective: Today, we're discussing data types.
 
 
 i = 4
